@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8797651-40fa-43f7-889e-e9efca2b0060" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Disk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inputs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Disk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Disk.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +42,16 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="Greedy" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Greedy" />
+      <module name="aueb-ds-ergasia2" />
+      <option name="PROGRAM_PARAMETERS" value="inputs.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -52,7 +64,7 @@
       <workItem from="1670593911824" duration="2588000" />
       <workItem from="1670596535632" duration="8172000" />
       <workItem from="1670728963882" duration="596000" />
-      <workItem from="1670783012516" duration="4527000" />
+      <workItem from="1670783012516" duration="15411000" />
     </task>
     <servers />
   </component>

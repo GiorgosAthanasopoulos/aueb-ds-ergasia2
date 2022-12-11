@@ -1,7 +1,8 @@
 import java.util.Arrays;
+import java.util.Iterator;
 
 @SuppressWarnings("unchecked, unused")
-public class ArrayList<T> {
+public class ArrayList<T> implements Iterable<T> {
     Object[] data;
     private static final int SIZE_INCR = 10;
     private int size = 0;
@@ -51,6 +52,28 @@ public class ArrayList<T> {
         return res;
     }
 
+    public T get(int index) {
+        if (index < 0 || index > data.length) throw new IllegalArgumentException();
+        return (T) data[index];
+    }
+
+    public T peek() {
+        return (T) data[size - 1];
+    }
+
+    public int indexOf(T val) {
+        for (int i=0; i<size; i++)
+            if (data[i] == val)
+                return i;
+
+        return -1;
+    }
+
+    public void clear() {
+        data = new Object[SIZE_INCR];
+        size = 0;
+    }
+
     public int size() {
         return size;
     }
@@ -82,5 +105,23 @@ public class ArrayList<T> {
         if (newSize - size < 0)
             newSize = size;
         data = Arrays.copyOf(data, newSize);
+    }
+
+    class ArrayListIterator implements Iterator<T> {
+        private int index = 0;
+
+        @Override
+        public boolean hasNext() {
+            return index < size;
+        }
+
+        @Override
+        public T next() {
+            return get(index++);
+        }
+    }
+
+    public Iterator<T> iterator() {
+        return new ArrayListIterator();
     }
 }
