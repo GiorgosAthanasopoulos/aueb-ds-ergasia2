@@ -2,43 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8797651-40fa-43f7-889e-e9efca2b0060" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/n1000i0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/n1000i1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/n1000i2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/n1000i3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/n1000i4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/n1000i5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/n1000i6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/n1000i7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/n1000i8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/n1000i9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/n100i0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/n100i1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/n100i2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/n100i3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/n100i4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/n100i5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/n100i6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/n100i7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/n100i8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/n100i9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/n500i0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/n500i1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/n500i2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/n500i3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/n500i4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/n500i5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/n500i6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/n500i7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/n500i8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/n500i9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Review.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Greedy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Greedy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeapPriorityQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MaxPQ.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/n1000i0" beforeDir="false" afterPath="$PROJECT_DIR$/data/n1000i0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/n1000i1" beforeDir="false" afterPath="$PROJECT_DIR$/data/n1000i1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/n1000i2" beforeDir="false" afterPath="$PROJECT_DIR$/data/n1000i2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/n1000i3" beforeDir="false" afterPath="$PROJECT_DIR$/data/n1000i3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/n1000i4" beforeDir="false" afterPath="$PROJECT_DIR$/data/n1000i4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/n1000i5" beforeDir="false" afterPath="$PROJECT_DIR$/data/n1000i5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/n1000i6" beforeDir="false" afterPath="$PROJECT_DIR$/data/n1000i6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/n1000i7" beforeDir="false" afterPath="$PROJECT_DIR$/data/n1000i7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/n1000i8" beforeDir="false" afterPath="$PROJECT_DIR$/data/n1000i8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/n1000i9" beforeDir="false" afterPath="$PROJECT_DIR$/data/n1000i9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/n100i0" beforeDir="false" afterPath="$PROJECT_DIR$/data/n100i0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/n100i1" beforeDir="false" afterPath="$PROJECT_DIR$/data/n100i1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/n100i2" beforeDir="false" afterPath="$PROJECT_DIR$/data/n100i2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/n100i3" beforeDir="false" afterPath="$PROJECT_DIR$/data/n100i3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/n100i4" beforeDir="false" afterPath="$PROJECT_DIR$/data/n100i4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/n100i5" beforeDir="false" afterPath="$PROJECT_DIR$/data/n100i5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/n100i6" beforeDir="false" afterPath="$PROJECT_DIR$/data/n100i6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/n100i7" beforeDir="false" afterPath="$PROJECT_DIR$/data/n100i7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/n100i8" beforeDir="false" afterPath="$PROJECT_DIR$/data/n100i8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/n100i9" beforeDir="false" afterPath="$PROJECT_DIR$/data/n100i9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/n500i0" beforeDir="false" afterPath="$PROJECT_DIR$/data/n500i0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/n500i1" beforeDir="false" afterPath="$PROJECT_DIR$/data/n500i1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/n500i2" beforeDir="false" afterPath="$PROJECT_DIR$/data/n500i2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/n500i3" beforeDir="false" afterPath="$PROJECT_DIR$/data/n500i3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/n500i4" beforeDir="false" afterPath="$PROJECT_DIR$/data/n500i4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/n500i5" beforeDir="false" afterPath="$PROJECT_DIR$/data/n500i5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/n500i6" beforeDir="false" afterPath="$PROJECT_DIR$/data/n500i6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/n500i7" beforeDir="false" afterPath="$PROJECT_DIR$/data/n500i7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/n500i8" beforeDir="false" afterPath="$PROJECT_DIR$/data/n500i8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/n500i9" beforeDir="false" afterPath="$PROJECT_DIR$/data/n500i9" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,17 +60,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Review">
     <configuration name="Greedy" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Greedy" />
@@ -119,7 +113,8 @@
       <workItem from="1670593911824" duration="2588000" />
       <workItem from="1670596535632" duration="8172000" />
       <workItem from="1670728963882" duration="596000" />
-      <workItem from="1670783012516" duration="19029000" />
+      <workItem from="1670783012516" duration="19118000" />
+      <workItem from="1670805741117" duration="1134000" />
     </task>
     <servers />
   </component>
