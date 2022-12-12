@@ -1,4 +1,3 @@
-import java.util.Arrays;
 import java.util.Iterator;
 
 @SuppressWarnings("unchecked, unused")
@@ -104,7 +103,9 @@ public class ArrayList<T> implements Iterable<T> {
         int newSize = oldSize + oldSize >> 1;
         if (newSize - size < 0)
             newSize = size;
-        data = Arrays.copyOf(data, newSize);
+        Object[] newData = new Object[newSize];
+        System.arraycopy(data, 0, newData, 0, data.length);
+        data = newData;
     }
 
     class ArrayListIterator implements Iterator<T> {

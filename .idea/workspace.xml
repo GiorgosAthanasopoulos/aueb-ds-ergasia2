@@ -2,12 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8797651-40fa-43f7-889e-e9efca2b0060" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/inputs.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Greedy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/n1000i0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/n1000i1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/n1000i2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/n1000i3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/n1000i4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/n1000i5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/n1000i6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/n1000i7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/n1000i8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/n1000i9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/n100i0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/n100i1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/n100i2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/n100i3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/n100i4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/n100i5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/n100i6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/n100i7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/n100i8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/n100i9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/n500i0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/n500i1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/n500i2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/n500i3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/n500i4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/n500i5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/n500i6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/n500i7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/n500i8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/n500i9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Review.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Disk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Disk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Greedy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Greedy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HeapPriorityQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MaxPQ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,21 +59,25 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2IgAbqRPm6vGQfRh8Zzreisp51w" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
-  <component name="RunManager">
+}]]></component>
+  <component name="RunManager" selected="Application.Review">
     <configuration name="Greedy" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Greedy" />
       <module name="aueb-ds-ergasia2" />
@@ -51,6 +86,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Review" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Review" />
+      <module name="aueb-ds-ergasia2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sort" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Sort" />
+      <module name="aueb-ds-ergasia2" />
+      <option name="PROGRAM_PARAMETERS" value="inputs.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Sort" />
+      <item itemvalue="Application.Greedy" />
+      <item itemvalue="Application.Review" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -64,7 +119,7 @@
       <workItem from="1670593911824" duration="2588000" />
       <workItem from="1670596535632" duration="8172000" />
       <workItem from="1670728963882" duration="596000" />
-      <workItem from="1670783012516" duration="15411000" />
+      <workItem from="1670783012516" duration="19029000" />
     </task>
     <servers />
   </component>
@@ -81,5 +136,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

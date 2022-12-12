@@ -7,7 +7,7 @@ import java.util.Optional;
 import java.util.Scanner;
 
 public class Greedy {
-    private static Optional<Integer[]> validInputFile(String filename) throws IOException {
+    public static Optional<Integer[]> validInputFile(String filename) throws IOException {
         File file = new File(filename);
 
         try {
@@ -60,7 +60,7 @@ public class Greedy {
         return Optional.of(res);
     }
 
-    private static ArrayList<Disk> solve(Integer[] folderSizes) {
+    public static ArrayList<Disk> solve(Integer[] folderSizes) {
         ArrayList<Disk> disks = new ArrayList<>();
         /*
         if no disk in disks has enough space for the folder
@@ -105,7 +105,7 @@ public class Greedy {
         return disks;
     }
 
-    private static void printSolution(ArrayList<Disk> disks) {
+    public static void printSolution(ArrayList<Disk> disks) {
         int sum = 0;
         int folderCounter = 0;
         for (Disk disk : disks) {
@@ -136,17 +136,23 @@ public class Greedy {
         }
     }
 
+    @SuppressWarnings("UnusedReturnValue")
+    public static int algorithm1(String filename, boolean output) throws IOException {
+        Optional<Integer[]> folderSizesOptional = validInputFile(filename);
+        if (folderSizesOptional.isEmpty()) System.exit(1);
+        ArrayList<Disk> disks = solve(folderSizesOptional.get());
+        if (output)
+            printSolution(disks);
+        return disks.size();
+    }
+
+    // ALGORITHM 1
     public static void main(String[] args) throws IOException {
         if (args.length == 0) {
             System.out.println("Missing argument: filename");
             System.exit(1);
         }
 
-        Optional<Integer[]> folderSizesOptional = validInputFile(args[0]);
-        if (folderSizesOptional.isEmpty()) System.exit(1);
-
-        Integer[] folderSizes = folderSizesOptional.get();
-        ArrayList<Disk> solution = solve(Sort.quicksort(folderSizes, 0, folderSizes.length-1));
-        printSolution(solution);
+        algorithm1(args[0], true);
     }
 }

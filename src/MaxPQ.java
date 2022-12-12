@@ -4,7 +4,7 @@ import java.util.Comparator;
  * Priority Queue implementation based in Heap
  */
 @SuppressWarnings("unused")
-public class HeapPriorityQueue<T> implements PriorityQueueInterface<T> {
+public class MaxPQ<T> implements PriorityQueueInterface<T> {
     /**
      * Heap based implementation of PriorityQueue
      * To implement it you need to implement the following helper functions as well
@@ -23,7 +23,7 @@ public class HeapPriorityQueue<T> implements PriorityQueueInterface<T> {
      *
      * @param comparator the comparator to use in order to compare priority queue objects of type T
      */
-    public HeapPriorityQueue(Comparator<T> comparator) {
+    public MaxPQ(Comparator<T> comparator) {
         //noinspection unchecked
         this.heap = (T[]) new Object[DEFAULT_CAPACITY + 1];
         this.size = 0;
