@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8797651-40fa-43f7-889e-e9efca2b0060" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/DiskComparator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/n1000i0" beforeDir="false" afterPath="$PROJECT_DIR$/data/n1000i0" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/n1000i1" beforeDir="false" afterPath="$PROJECT_DIR$/data/n1000i1" afterDir="false" />
@@ -33,6 +34,10 @@
       <change beforePath="$PROJECT_DIR$/data/n500i7" beforeDir="false" afterPath="$PROJECT_DIR$/data/n500i7" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/n500i8" beforeDir="false" afterPath="$PROJECT_DIR$/data/n500i8" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/n500i9" beforeDir="false" afterPath="$PROJECT_DIR$/data/n500i9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Disk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Disk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Greedy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Greedy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MaxPQ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MaxPQ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Review.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Review.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,6 +120,8 @@
       <workItem from="1670728963882" duration="596000" />
       <workItem from="1670783012516" duration="19118000" />
       <workItem from="1670805741117" duration="1134000" />
+      <workItem from="1670852764933" duration="2617000" />
+      <workItem from="1670969789140" duration="4511000" />
     </task>
     <servers />
   </component>
